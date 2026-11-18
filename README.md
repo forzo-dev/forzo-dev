@@ -14,7 +14,7 @@ Side-Gigs
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?logo=ffmpeg&logoColor=white)
 
 ## 🚀 Featured projects
-- **[PSP Video Converter](https://github.com/YOUR_USERNAME/psp-video-converter)**: drag-and-drop Windows tool that turns any video into a PSP-ready MP4 (Python + ffmpeg).
+- **[Pspify](https://github.com/forzo-dev/pspify)**: drag-and-drop Windows tool that turns any video into a PSP-ready MP4 (Python + ffmpeg).
 - More coming soon.
 
 ## 🌱 Currently
