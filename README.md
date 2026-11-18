@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Forzo 👋
 
-<!--
-**forzo-dev/forzo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at Sukkur IBA University (Mirpurkhas Campus, Pakistan), learning by building practical tools. Open to **internships, entry-level roles, and open-source collaboration**.
 
-Here are some ideas to get you started:
+Side-Gigs
+🌌 Stargazer since age 8 · 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?logo=ffmpeg&logoColor=white)
+
+## 🚀 Featured projects
+- **[PSP Video Converter](https://github.com/YOUR_USERNAME/psp-video-converter)**: drag-and-drop Windows tool that turns any video into a PSP-ready MP4 (Python + ffmpeg).
+- More coming soon.
+
+## 🌱 Currently
+- Building and shipping my first open-source projects
+- Learning Python tooling, packaging, and AI/ML fundamentals
+
+## 📫 Contact
+- Email: pakfahadali8@gmail.com
+- LinkedIn: [Fahad Ali](https://www.linkedin.com/in/fahad-ali-24532a284/)
